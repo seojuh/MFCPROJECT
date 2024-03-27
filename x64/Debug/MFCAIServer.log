@@ -1,0 +1,11 @@
+﻿  MFCAIServer.cpp
+  MFCAIServerDlg.cpp
+  MySocket.cpp
+C:\Users\iot\source\repos\MFCAIServer 03-25\MFCAIServer\MySocket.cpp(353,15): warning C4101: 'row' :참조되지 않은 지역 변수입니다.
+  (소스 파일 '/MySocket.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\iot\source\repos\MFCAIServer 03-25\MFCAIServer\MySocket.cpp(352,16): warning C4101: 'res' :참조되지 않은 지역 변수입니다.
+  (소스 파일 '/MySocket.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...
+  MFCAIServer.vcxproj -> C:\Users\iot\source\repos\MFCAIServer 03-25\x64\Debug\MFCAIServer.exe
